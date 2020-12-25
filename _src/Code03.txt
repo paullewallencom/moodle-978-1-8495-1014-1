@@ -1,0 +1,7 @@
+Code for page 17
+
+body, table, td, th, li {
+font-family:comic sans ms,Verdana,Helvetica,sans-serif;
+font-size:100%;
+color:red;
+background-image: url(pix/lgrey004.gif);

@@ -1,0 +1,2 @@
+Code for page 6
+$THEME->sheets = array('styles_layout', 'styles_fonts', 'styles_color', ‘my_style’);
